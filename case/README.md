@@ -6,4 +6,4 @@
 
 They are not suitable for CNC machining and trying to do so will result in failure of the part.
 
-4x M2.5x4mm screws are required for assembly.
+For assembly you need 4x m2.5x4mm screws for the case and 8x 2mm foam strips for the "gaskets" to mount the plate.
