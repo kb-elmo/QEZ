@@ -22,21 +22,6 @@
 
 ---
 
-### Supported layouts
-
-<img src="https://i.imgur.com/VgqjuFO.png" alt="layout1" width="800"/>
-<img src="https://i.imgur.com/rsseqai.png" alt="layout2" width="800"/>
-<img src="https://i.imgur.com/ZxjCJdc.png" alt="layout3" width="800"/>
-
----
-
-### PCB preview
-
-<img src="pcb/back.png" alt="pcb_back" width="800"/>
-<img src="pcb/front.png" alt="pcb_front" width="800"/>
-
----
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
