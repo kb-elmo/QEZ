@@ -4,7 +4,7 @@
 
 ### A seamless, gasketmounted QAZ-like 40% keyboard
 
-<img src="#" alt="header" width="800"/>
+<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>
 
 ---
 
