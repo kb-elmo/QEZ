@@ -20,7 +20,7 @@
 
 #define ___ KC_NO
 
-#define LAYOUT_SPLIT_SPACE( \
+#define LAYOUT_split_space( \
     k00, k01, k02, k03, k04, k05, k06, k07, k08, k09, \
     k10, k11, k12, k13, k14, k15, k16, k17, k18, k19, \
     k20,    k22, k23, k24, k25, k26, k27, k28,   k29, \
@@ -32,7 +32,7 @@
     { ___, k31, k32, k33, ___, ___, k36, k37, k38, k39 }  \
 }
 
-#define LAYOUT_TRIPLE_SPACE( \
+#define LAYOUT_triple_space( \
     k00, k01, k02, k03, k04, k05, k06, k07, k08, k09, \
     k10, k11, k12, k13, k14, k15, k16, k17, k18, k19, \
     k20,    k22, k23, k24, k25, k26, k27, k28,   k29, \
@@ -44,7 +44,7 @@
     { ___, k31, ___, k33, ___, k35, k36, ___, k38, k39 }  \
 }
 
-#define LAYOUT_FULL_SPACE( \
+#define LAYOUT_full_space( \
     k00, k01, k02, k03, k04, k05, k06, k07, k08, k09, \
     k10, k11, k12, k13, k14, k15, k16, k17, k18, k19, \
     k20,    k22, k23, k24, k25, k26, k27, k28,   k29, \
