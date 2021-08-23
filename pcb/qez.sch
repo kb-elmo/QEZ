@@ -807,6 +807,7 @@ F 0 "U1" H 2850 1350 50  0000 C CNN
 F 1 "ATmega32U2-AU" H 2850 1250 50  0000 C CNN
 F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 3400 2750 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf" H 3400 2750 50  0001 C CNN
+F 4 "C618733" H 3400 2750 50  0001 C CNN "LCSC"
 	1    3400 2750
 	1    0    0    -1  
 $EndComp
