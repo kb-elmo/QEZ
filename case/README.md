@@ -2,7 +2,7 @@
 
 ### These files are meant for 3D printing only! 
 
-They are not suitable for CNC machining and trying to do use them for that will most likely result in failure of the parts.
+They are not suitable for CNC machining and trying to use them for that will most likely result in failure of the parts.
 
 For assembly you need 4x m2.5x4mm screws for the case and 8x 2mm thick foam strips for the "gaskets" to mount the plate.
 
