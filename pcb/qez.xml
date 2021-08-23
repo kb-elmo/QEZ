@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\elmo\Documents\Git\keyboard_design\QAZ\pcb\qez.sch</source>
-    <date>19.08.2021 10:17:04</date>
+    <date>23.08.2021 22:58:39</date>
     <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -346,6 +346,9 @@
       <value>ATmega32U2-AU</value>
       <footprint>Package_QFP:TQFP-32_7x7mm_P0.8mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C618733</field>
+      </fields>
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U2-AU" description="16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, TQFP-32"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>610DC575</tstamp>

@@ -19,7 +19,7 @@ Comment,Designator,Footprint,LCSC
 "10k","R5,R6","Resistor_SMD:R_0805_2012Metric","C17414"
 "1.5k","R7","Resistor_SMD:R_0805_2012Metric","C4310"
 "SW_Push","RESET1","Button_Switch_SMD:SW_SPST_TL3342","C318884"
-"ATmega32U2-AU","U1","Package_QFP:TQFP-32_7x7mm_P0.8mm",""
+"ATmega32U2-AU","U1","Package_QFP:TQFP-32_7x7mm_P0.8mm","C618733"
 "SRV05-4","U2","Package_TO_SOT_SMD:SOT-23-6","C85364"
 "USB_C_Receptacle_USB2.0","USB1","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
 "Crystal_GND24_Small","X1","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","C13738"

@@ -10,6 +10,7 @@
 "10k","R5,R6","R_0805_2012Metric","C17414"
 "1.5k","R7","R_0805_2012Metric","C4310"
 "SW_Push","RESET","SW_SPST_TL3342","C318884"
+"ATmega32U2-AU","U1","TQFP-32_7x7mm_P0.8mm","C618733"
 "SRV05-4","U2","SOT-23-6","C85364"
 "USB_C_Receptacle_USB2.0","USB1","USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
 "Crystal_GND24_Small","X1","Crystal_SMD_3225-4Pin_3.2x2.5mm","C13738"
