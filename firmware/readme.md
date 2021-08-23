@@ -1,6 +1,6 @@
 # QEZ
 
-![qez](imgur.com image replace me!)
+![qez](https://i.imgur.com/x00N9f3l.jpg)
 
 A seamless gasketmounted QAZ-like 40% keyboard
 
