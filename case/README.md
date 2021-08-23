@@ -10,11 +10,11 @@ For assembly you need 4x m2.5x4mm screws for the case and 8x 2mm thick foam stri
 
 ### Supported layouts
 
-Plate 1
+Plate 1  
 <img src="https://i.imgur.com/VgqjuFO.png" alt="layout1"/>
 
-Plate 2
+Plate 2  
 <img src="https://i.imgur.com/rsseqai.png" alt="layout2"/>
 
-Plate 3
+Plate 3  
 <img src="https://i.imgur.com/ZxjCJdc.png" alt="layout3"/>
