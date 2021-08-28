@@ -13,7 +13,7 @@
 ### Supported layouts
 
 <img src="https://i.imgur.com/VgqjuFO.png" alt="layout1"/>
-<img src="https://i.imgur.com/rsseqai.png" alt="layout2"/>
+<img src="https://i.imgur.com/FzC2Qn9.png" alt="layout2"/>
 <img src="https://i.imgur.com/ZxjCJdc.png" alt="layout3"/>
 
 ---
